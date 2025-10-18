@@ -1,0 +1,28 @@
+body {
+	background-color: rebeccapurple;
+	font-family: sans-serif;
+}
+
+h1{
+	color: lawngreen;
+	font-family: "Technovier Black";
+	font-weight: 40px;
+}
+
+h2{
+	color: lawngreen;
+	font-family: "Technovier";
+	font-weight: 30px;
+}
+
+h3{
+	color: lawngreen;
+	font-family: "Technovier";
+	font-weight: 20px;
+}
+
+p{
+	color: whitesmoke;
+	font-family: "Technovier";
+	font-weight: 20px;
+}
